@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Guilherme969
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# DIO |  Resumos Git e Github
 
-<!---
-Guilherme969/Guilherme969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Repositórios para armazenar resumos sobre Git e Github do curso de códigos na bootcamp da[Digital innovation One](https://www.dio.me/)
+
+## 📗 Documentação
+- [Documentação GitHub](https://github.com/Guilherme969/guicrf)
+- [Documentação Git](https://git-scm.com/doc)
+
+## 💻 Resumos das Aulas
+
+| Aulas | Resumos
+|------|--------|
+| Gravando Alterações no Repositório local | [Resumos]
+()  |
+```
+git init
+```
+## 🔍 Referências
+- [Digital Innovation One]().
+
