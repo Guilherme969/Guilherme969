@@ -10,8 +10,8 @@ Repositórios para armazenar resumos sobre Git e Github do curso de códigos na 
 
 | Aulas | Resumos
 |------|--------|
-| Gravando Alterações no Repositório local | [Resumos]
-()  |
+| Gravando Alterações no Repositório local | Configurando seu Repositório
+
 ```
 git init
 ```
