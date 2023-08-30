@@ -18,3 +18,8 @@ git init
 ## 🔍 Referências
 - [Digital Innovation One]().
 
+
+## Link  
+- [Linkedin](www.linkedin.com/in/guilherme-rafael-borges-7425b0216)
+
+- [Facebook](https://www.facebook.com/guilherme.rafael.9275?mibextid=ZbWKwL)
